@@ -3,6 +3,8 @@ from tkinter import *
 root = Tk()
 # title of the application
 root.title("Nashari Simple Calculater")
+#this is icon we need to give the address:
+
 #root.iconbitmap("C:\Users\Dell\Google Drive\Python\Python\tkinder\Project-calculator")
 
 
